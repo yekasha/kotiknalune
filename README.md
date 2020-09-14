@@ -38,6 +38,7 @@
 
 ### 📕 Blog Posts
 - [Prince of Persia on Phaser 3](https://medium.com/rs-school/prince-of-persia-on-phaser-3-e3c810943985)
+- [Let's Talk Canvas](https://kotiknalune.github.io/lets-talk-canvas/)
 
 [twitter]: https://twitter.com/kotiknalune
 [instagram]: https://instagram.com/kotik.na.lune
