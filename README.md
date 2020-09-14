@@ -34,6 +34,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
+
 ### 📕 Blog Posts
 - [Prince of Persia on Phaser 3](https://medium.com/rs-school/prince-of-persia-on-phaser-3-e3c810943985)
 
