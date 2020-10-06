@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kotiknalune?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkotiknalune&screen_name=kotiknalune)
 
-## I'm a [wife](https://github.com/shalamowww), mom and frontend developer!
+## I'm a [wife](https://github.com/shalamowww), mom and frontend developer
 
-- 🔭 I’m currently working on a React App [SONGBIRD]()!
+- 🔭 Right now I'm working on a secret project
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: graduate to full-stack frontend dev
 - ⚡ Fun fact: I love to draw and play Skyrim
