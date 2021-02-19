@@ -5,9 +5,9 @@
 ## I'm a [wife](https://github.com/shalamowww), mom and frontend developer
 
 - 🔭 Right now I'm working on a secret project
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: graduate to full-stack frontend dev
-- ⚡ Fun fact: I love to draw and play Skyrim
+- 🌱 I’m currently learning React and Machine Learning
+- 🥅 2021 Goals: Level up to middle developer on a React project
+- ⚡ Fun fact: I love to draw and play Skyrim (repeatedly)
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
