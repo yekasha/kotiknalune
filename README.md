@@ -9,8 +9,8 @@
 - 🥅 2021 Goals: Switch gears to iOS developer
 - ⚡ Fun fact: I love to draw and play Skyrim (repeatedly)
 
-### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-three-iota.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/307aa0629b04422693fba469702864d5)
+### Coding Playlist 🎧
+[<img width="300px" src="https://is4-ssl.mzstatic.com/image/thumb/x1qkE4AvJwVWPKlbBp0C9A/1200x1200bf-60.jpg" />](https://music.apple.com/ru/playlist/coding/pl.u-oZyl3qYTGo4Lx74?l=en)
 
 ### Connect with me:
 [<img align="left" alt="kotiknalune | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
