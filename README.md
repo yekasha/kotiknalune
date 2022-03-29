@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kotiknalune?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkotiknalune&screen_name=kotiknalune)
 
-## I'm a [wife](https://github.com/shalamowww), mom and frontend developer
+## I'm a [wife](https://github.com/shalamowww), mom and a developer
 
 - 🔭 Right now I'm working on a secret project
 - 🌱 I’m currently learning React and Swift
-- 🥅 2021 Goals: Switch gears to iOS developer
+- 🥅 2022 Goals: Switch gears to iOS developer
 - ⚡ Fun fact: I love to draw and play Skyrim (repeatedly)
 
 ### Coding Playlist 🎧
