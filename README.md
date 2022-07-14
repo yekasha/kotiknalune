@@ -4,10 +4,10 @@
 
 ## I'm a [wife](https://github.com/shalamowww), mom and a developer
 
-- 🔭 Right now I'm working on a secret project
-- 🌱 I’m currently learning React and Swift
-- 🥅 2022 Goals: Switch gears to iOS developer
-- ⚡ Fun fact: I love to draw and play Skyrim (repeatedly)
+- 🔭 working on a secret project
+- 🌱 currently learning SwiftUI
+- 🥅 2022 goals: fully switch gears to iOS
+- ⚡ fun fact: I love to paint and play Fortnite
 
 ### Connect with me:
 [<img align="left" alt="kotiknalune | Telegram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" />][telegram]
@@ -28,13 +28,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-### 📕 Blog Posts
-- [Prince of Persia on Phaser 3](https://medium.com/rs-school/prince-of-persia-on-phaser-3-e3c810943985)
-- [Let's Talk Canvas](https://kotiknalune.github.io/lets-talk-canvas/)
 
 [telegram]: https://twitter.com/kotiknalune
 [instagram]: https://instagram.com/kotik.na.lune
