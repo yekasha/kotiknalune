@@ -6,7 +6,7 @@ yeka here. a wife to [this](https://github.com/shalamowww) awesome dev and a jun
 - switch gears to iOS from JS
 - aggresively suck at fortnite
 
-connect with me on [telegram][telegram], [linked][linkedin] in or [insta][instagram]
+connect with me on [telegram][telegram], [linked][linkedin] or [insta][instagram]
 
 [telegram]: https://t.me/kotiknalune
 [instagram]: https://instagram.com/kotik.na.lune
