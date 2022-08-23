@@ -1,5 +1,5 @@
 # heya
-yeka here. a wife to [this](https://github.com/shalamowww) awesome dev and an juni ios dev myself
+yeka here. a wife to [this](https://github.com/shalamowww) awesome dev and a juni-ios-dev myself
 
 - working on a an indie app
 - learning SwiftUI
