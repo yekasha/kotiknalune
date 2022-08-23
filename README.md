@@ -1,10 +1,10 @@
-# heya, I'm yeka
-I'm a [wife](https://github.com/shalamowww), mom and an ios developer
+# heya
+yeka here. a wife to [this](https://github.com/shalamowww) awesome dev and an juni ios dev myself
 
-- 🔭 working on a secret project
-- 🌱 currently learning SwiftUI
-- 🥅 2022 goals: fully switch gears to iOS
-- ⚡ fun fact: I love to paint and play Fortnite
+- working on a an indie app
+- learning SwiftUI
+- switch gears to iOS from JS
+- aggresively suck at fortnite
 
 connect with me on [telegram][telegram], [linked][linkedin] in or [insta][instagram]
 
